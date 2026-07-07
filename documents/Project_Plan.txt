@@ -1,0 +1,20 @@
+## PROJECT PLAN
+
+Departmets
+-Developers
+-Testers
+-Admins
+
+Projects
+-WebApp
+-MobileApp
+-InternalTools
+
+Features
+-User Mangement
+-Group Management
+-File Permissions
+-SSh Access
+-Git Version Control
+-Backup Scripts
+-Health Check Scripts
